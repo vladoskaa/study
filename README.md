@@ -1,2 +1,2 @@
 # study
-this repository obaut my steps ini IT
+this repository about my steps in  IT
