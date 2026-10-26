@@ -36,15 +36,15 @@ num_str = str(num_int)<br>
 
 # str to int or float<br>
 num_str = '10.6'<br>
-num_float = float(num_str)  # Convert the string to a float first
-num_int = int(num_float)    # Then convert the float to an integer
-print('num_int', int(num_str))      # 10
-print('num_float', float(num_str))  # 10.6
-num_int = int(num_float)
-print('num_int', int(num_int)
+num_float = float(num_str)  # Convert the string to a float first<br>
+num_int = int(num_float)    # Then convert the float to an integer<br>
+print('num_int', int(num_str))      # 10<br>
+print('num_float', float(num_str))  # 10.6<br>
+num_int = int(num_float)<br>
+print('num_int', int(num_int)<br>
 
-# str to list
-first_name = 'Asabeneh'
-print(first_name)               # 'Asabeneh'
-first_name_to_list = list(first_name)
-print(first_name_to_list)
+# str to list<br>
+first_name = 'Asabeneh'<br>
+print(first_name)               # 'Asabeneh'<br>
+first_name_to_list = list(first_name)<br>
+print(first_name_to_list)<br>
